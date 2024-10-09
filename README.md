@@ -16,3 +16,16 @@ a-z, A-Z, 0-9, !?.,'
 3. 手書き表示した文章を作成する
    1. `python run.py` を実行する
    2. `output.png` に手書き表示された文章が保存される
+
+# 画像サンプル
+## abc_large.png
+![abc_large](images/abc_large.png)
+
+## abc.png
+![abc](images/abc.png)
+
+## other.png
+![other](images/other.png)
+
+## output.png
+![output](output.png)
